@@ -1,0 +1,7 @@
+order_id,product,quantity,unit_price
+O101,Laptop,2,50000
+O102,Mouse,3,600
+O103,Keyboard,-1,1500
+O104,Monitor,1,12000
+O105,Laptop,1,50000
+O106,Headphones,2,2000
